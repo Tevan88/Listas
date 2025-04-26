@@ -2,9 +2,9 @@
 #pantalla. Pista: para crear una lista vacía debes colocar los corchetes sin nada en su interior.
 
 lista = []
-lista2 = lista.append("Hola")
+lista.append("Hola")
 print(lista)
-lista2 = lista.append("mundo")
+lista.append("mundo")
 print(lista)
-lista2 = lista.append("cruel")
+lista.append("cruel")
 print(lista)
