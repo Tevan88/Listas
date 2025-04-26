@@ -1,3 +1,2 @@
-numeros = [2, 45, 3, 101, 56]
-numeros.remove(max(numeros))
-print(numeros)
+#El programa muestra una lista con números, la función max elimina el elemento mayor de la lista, en el 
+#caso del programa en cuestión elimina el número 22 de la lista y la imprime por pantalla: [8, 15 ,3, 7]
